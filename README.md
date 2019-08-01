@@ -1,2 +1,2 @@
 # SnakeBite
-Append a famous game.
+Add features to a famous game.
